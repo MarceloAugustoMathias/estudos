@@ -1,0 +1,62 @@
+{
+  "locatorResult": [
+    {
+      "vendor": {
+        "id": 305768,
+        "sellingSource": {
+          "sellingSourceCode": "BD"
+        },
+        "primaryName": "NOVA (ITAIM BIBI OFICINA)",
+        "vendorCode": "N1601",
+        "primaryBusinessManagementSellingSourceIndicator": true,
+        "type": "DAA",
+        "language": "PT",
+        "contact": [
+          {
+            "name": [
+              {
+                "value": "NOVA (ITAIM BIBI OFICINA)",
+                "part": "full",
+                "type": "business"
+              }
+            ],
+            "address": [
+              {
+                "street": [
+                  {
+                    "value": "RUA DAS FIANDEIRAS, 116",
+                    "line": 1
+                  },
+                  {
+                    "value": "BAIRRO VILA OLÍMPIA",
+                    "line": 2
+                  }
+                ],
+                "city": "SÃO PAULO",
+                "regionCode": "SP",
+                "postalCode": "04545-000",
+                "country": "BR",
+                "latitude": -23.59687,
+                "longitude": -46.67497,
+                "type": "physical",
+                "province": "SP"
+              }
+            ],
+            "phone": [
+              {
+                "number": "1130490500",
+                "type": "dealerMain"
+              }
+            ],
+            "type": "main"
+          }
+        ]
+      },
+      "distance": 0,
+      "distanceUnitOfMeasure": "km"
+    }
+  ],
+  "resultCount": 1,
+  "statusMessage": null,
+  "returnCode": 0
+}
