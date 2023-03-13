@@ -1,4 +1,4 @@
-,IP Address,LoggedInFlag,VisitPageFlag,Group
+RecordID,IP Address,LoggedInFlag,VisitPageFlag,Group
 0,0.0.108.2,0,0,Test
 1,0.0.109.6,1,0,Test
 2,0.0.111.8,0,0,Control
